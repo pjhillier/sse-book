@@ -1,9 +1,16 @@
-# SSE book pre-publication website
+# The Security-Engineering Convergence
 
-`index.html` + `cover.png` are ready for upload to the **private** `pjhillier/sse-book` repository.
-Preview by opening index.html on your PC. The site intentionally contains no live manuscript download buttons.
+Open-access first digital edition of *The Security-Engineering Convergence: How Systems Security Engineering Unifies Technology, Security, and Mission Outcomes* by Peter J. Hillier.
 
-DOI reserved: 10.5281/zenodo.23284495; ISBN applied for but pending.
-Do not make the repository public until approval; publishing GitHub Pages on GitHub Free normally requires public repository access.
+**Publisher:** Hillier Information Protection Solutions Inc.  
+**Licence:** CC BY 4.0 for material the author is authorized to license; see publication rights notices.  
+**DOI:** https://doi.org/10.5281/zenodo.23284495
 
-The book downloads will be linked after the GitHub v1.0.0 release is approved and published. Run the publication step in RELEASE_WORKFLOW.md, not a blind copy of staging files.
+## Download the book
+
+- [PDF](https://github.com/pjhillier/sse-book/releases/download/v1.0.0/The_Security_Engineering_Convergence_1.0.pdf)
+- [EPUB](https://github.com/pjhillier/sse-book/releases/download/v1.0.0/The_Security_Engineering_Convergence_1.0.epub)
+- [Companion resources](https://github.com/pjhillier/sse-book/releases/download/v1.0.0/SSE_Book_Companion_1.0.zip)
+- [Publication release](https://github.com/pjhillier/sse-book/releases/tag/v1.0.0)
+
+The source manuscript and private author authorization are not distributed through this repository.

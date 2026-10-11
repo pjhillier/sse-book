@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite the first approved edition using its Zenodo DOI."
+title: "The Security-Engineering Convergence: How Systems Security Engineering Unifies Technology, Security, and Mission Outcomes"
+authors:
+  - family-names: Hillier
+    given-names: Peter J.
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23284495
+    description: "Reserved DOI; not yet registered as a public record"
+keywords:
+  - Systems Security Engineering
+  - Cyber Resilience
+  - Engineering Assurance
+repository-code: "https://github.com/pjhillier/sse-book"
